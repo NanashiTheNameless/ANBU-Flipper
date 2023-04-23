@@ -1,2 +1,2 @@
 To use go to releases!
-https://github.com/CortezJEL/ANBU-FLipper/releases/latest
+https://github.com/CortezJEL/ANBU-Flipper/releases/latest
