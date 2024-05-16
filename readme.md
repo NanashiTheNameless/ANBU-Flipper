@@ -1,3 +1,9 @@
 To use go to releases!
+
+![Main Screen](https://github.com/NanashiTheNameless/ANBU-Flipper/blob/main/Anbu-Flipper.png?raw=true)
+
+![Multipass](https://github.com/NanashiTheNameless/ANBU-Flipper/blob/main/Multi-Pass.png?raw=true)
+
 https://github.com/CortezJEL/ANBU-Flipper/releases/latest
-![IMG_3038](https://user-images.githubusercontent.com/53353250/233850835-3a65bc66-8dee-4704-9822-299b95c527d0.png)
+
+the guy fawkes mask belongs to https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#guy-fawkes
